@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://instructorhamid.github.io/</loc>
     <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://instructorhamid.github.io/assets/hamid.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://instructorhamid.github.io/assets/g_funnel.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://instructorhamid.github.io/assets/g_wf1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://instructorhamid.github.io/assets/g_wf2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://instructorhamid.github.io/assets/g_log.webp</image:loc>
+    </image:image>
   </url>
 </urlset>
